@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALDX38
 - 👀 I’m interested in I'm interested in being a junior dev
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning Javascrypt 
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me angelonunes569@gmail.com
 - 😄 Pronouns: he/him
