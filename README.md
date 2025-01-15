@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALDX38
+- 👋 Hi, I’m Angelo
 - 👀 I’m interested in I'm interested in being a junior dev
 - 🌱 I’m currently learning Javascrypt 
 - 💞️ I’m looking to collaborate on anyone
