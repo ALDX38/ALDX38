@@ -2,7 +2,7 @@
 - 👀 I’m interested in I'm interested in being a junior dev
 - 🌱 I’m currently learning Javascrypt 
 - 💞️ I’m looking to collaborate on anyone
-- 📫 How to reach me angelonunes569@gmail.com
+- 📫 How to reach me angelonunes269@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 
